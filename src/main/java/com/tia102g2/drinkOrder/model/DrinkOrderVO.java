@@ -2,7 +2,7 @@ package com.tia102g2.drinkOrder.model;
 
 import java.sql.Timestamp;
 
-public class DrinkOrder {
+public class DrinkOrderVO {
 	private Integer drinkOrderID;
 	private Integer userID;
 	private Integer storeID;
